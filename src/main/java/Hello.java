@@ -12,6 +12,7 @@ public class Hello {
         System.out.println("new function added");
 
         System.out.println("new functions added");
+        System.out.println("extra work");
     }
 
 }
