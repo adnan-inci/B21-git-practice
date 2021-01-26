@@ -5,6 +5,8 @@ public class Hello {
         System.out.println("Hello World!");
 
         System.out.println("b21 is the best!!!");
+
+        System.out.println("lets learn java!");
     }
 
 }
